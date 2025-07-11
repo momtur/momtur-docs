@@ -49,6 +49,60 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Flights",
+        "groups": [
+          {
+            "group": "Bodrum",
+            "pages": [
+              "flights/bodrum/arrivals",
+              "flights/bodrum/departures"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Vehicles",
+        "groups": [
+          {
+            "group": "Sedan",
+            "pages": [
+              "araclar/sedan/mercedes-e-class",
+              "araclar/sedan/mercedes-s-class"
+            ]
+          },
+          {
+            "group": "VIP Minivan",
+            "pages": [
+              "araclar/vip-minivan/mercedes-vip-vito"
+            ]
+          },
+          {
+            "group": "Standard Minivan",
+            "pages": [
+              "araclar/standart-minivan/mercedes-vito"
+            ]
+          },
+          {
+            "group": "Minibus",
+            "pages": [
+              "araclar/minibus/mercedes-sprinter"
+            ]
+          },
+          {
+            "group": "Midibus",
+            "pages": [
+              "araclar/midibus/sultan-midibus"
+            ]
+          },
+          {
+            "group": "Bus",
+            "pages": [
+              "araclar/otobus/mercedes-travego"
+            ]
+          }
+        ]
       }
     ]
   },
