@@ -63,6 +63,42 @@
         ]
       },
       {
+        "tab": "Services",
+        "groups": [
+          {
+            "group": "Our Services",
+            "pages": [
+              "services/corporate-transportation",
+              "services/event-transfers",
+              "services/airport-transfer",
+              "services/wedding-packages"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Contact",
+        "groups": [
+          {
+            "group": "Contact Information",
+            "pages": [
+              "contact"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "FAQ",
+        "groups": [
+          {
+            "group": "Frequently Asked Questions",
+            "pages": [
+              "faq"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Vehicles",
         "groups": [
           {
@@ -107,8 +143,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/new_light.svg",
+    "dark": "/logo/new_dark.svg"
   },
   "navbar": {
     "links": [

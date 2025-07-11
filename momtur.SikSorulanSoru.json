@@ -1,0 +1,432 @@
+[{
+  "_id": {
+    "$oid": "684d3700f5fb98700ad035b1"
+  },
+  "soru": "Çocuklu aileler için bebek koltuğu temin ediyor musunuz?",
+  "cevap": "Evet, farklı yaş grupları için bebek ve çocuk koltukları ücretsiz sağlıyoruz. Rezervasyon sırasında belirtmeniz yeterli.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "1"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-14T08:46:56.591Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-14T08:59:33.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684d39a8c0fdaab30ee923fd"
+  },
+  "soru": "Kaç gün önceden rezervasyon yapabilirim?",
+  "cevap": "0 gün öncesinden rezervasyon alıyoruz. Özellikle havalimanı transferleri ve özel etkinlikler için erken rezervasyon yapmanızı öneririz.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "2"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-14T08:58:16.034Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-14T08:58:16.034Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684d39c2c0fdaab30ee923fe"
+  },
+  "soru": "Son dakika araç bulabiliyor musunuz?",
+  "cevap": "Evet, 7/24 hizmet veriyoruz. Acil durumlar için ortalama 10-15 dakika içinde araç temin edebiliyoruz.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "3"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-14T08:58:42.226Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-14T08:58:42.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684d39e1c0fdaab30ee923ff"
+  },
+  "soru": "Rezervasyonumu iptal edersem ücret alınır mı?",
+  "cevap": "Seyahat saatinden 2 saat öncesine kadar ücretsiz iptal hakkınız var. Daha sonraki iptallerde minimum ücret uygulanır.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "4"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-14T08:59:13.824Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-14T08:59:13.824Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684efce1ffc4a038a630acaf"
+  },
+  "soru": "Havalimanında Transfer Aracını Nasıl Bulurum ?",
+  "cevap": "Sizi, Bodrum Transfer  karşılama tabelamız ile yolcu çıkış kapısında karşılayıp aracınıza yönlendiriyoruz.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "5"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-15T17:03:29.645Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-15T17:03:29.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684efcf6ffc4a038a630acb0"
+  },
+  "soru": "Ucağım rötar yaparsa transferim ne olur ?",
+  "cevap": "Merak etmeyin, kimseyi yolda bırakmıyoruz. Ekonomik vip Transfer , tüm uçuşları anlık olarak takip eder ve tüm günclelemelerden haberdardır. Özel ve VIP transfer hizmetlerimizde siz ne zaman gelirseniz biz de o zaman oradayız. ",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "6"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-15T17:03:50.418Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-15T17:03:50.418Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6850574b7f0725402bff64bf"
+  },
+  "soru": "bodrumdan havalimanına nasıl gidilir",
+  "cevap": "bizimle iletişime geçebilirsiniz. eğer toplu taşıma tercih ederseniz.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "7"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-16T17:41:31.423Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-16T17:41:31.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685057637f0725402bff64c0"
+  },
+  "soru": "bodrum havalimanı turgutreis",
+  "cevap": "turgutreisten vip transfer hizmetlerimiz bulunmaktadır.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "8"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-16T17:41:55.154Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-16T17:41:55.154Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6850577f7f0725402bff64c1"
+  },
+  "soru": "bodrum milas havalimanı transfer",
+  "cevap": "güvenli bir şekilde grup rezervasyonları alınır.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "9"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-16T17:42:23.543Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-16T17:42:23.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6850578a7f0725402bff64c2"
+  },
+  "soru": "milas bodrum havalimanı dolmuş saatleri",
+  "cevap": "milas bodrum havalimanı dolmuş saatleri",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "10"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-16T17:42:34.191Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-16T17:42:34.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6854a7bf7695d8c048caa99c"
+  },
+  "soru": "mercedes travego bagaj yüksekliği",
+  "cevap": "Travego 15 SHD'de 2.100 mm, Travego 16 SHD ve Travego 16 SHD 2+1'de 1.950 mm olan iç yükseklik ferah bir seyahat ortamı sunuyor. Ayrıca Travego 15 SHD'de 10,7 m3, Travego 16 SHD ve Travego 16 SHD 2+1 modellerinde ise 14,0 m3 kullanılabilir bagaj hacmi bulunuyor",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "11"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-20T00:13:51.647Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-20T00:13:51.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685adcf30d0fbe390b7805e2"
+  },
+  "soru": "Taşıma Kuralları",
+  "cevap": "Transfeero’da farklı ihtiyaçlara uygun çeşitli araç sınıfları sunmaktayız. Her sınıf belirli sayıda yolcu ve bagaj taşıma kapasitesine sahiptir. Güvenlik önceliğimizdir ve şoförlerimiz, yolcu veya bagaj sayısının güvenli taşımacılık açısından fazla olduğunu düşünürse hizmeti reddedebilir.\n\nEkonomi Sınıfı\nEkonomi Sınıfı en fazla 3 yolcu taşıyabilir ve en fazla 3 orta boy valiz ile seyahat edebilir.\n\nStandart Sınıf (Sedan)\nStandart Sınıf (Sedan) en fazla 3 yolcu taşıyabilir ve en fazla 3 orta boy valiz ile seyahat edebilir.\n\nVan Standart\nVan Standart en fazla 7 yolcu taşıyabilir ve en fazla 7 orta boy valiz ile seyahat edebilir.\n\nBirinci Sınıf\nBirinci Sınıf en fazla 3 yolcu taşıyabilir ve en fazla 3 orta boy valiz ile seyahat edebilir.\n\nVan Birinci Sınıf\nVan Birinci Sınıf en fazla 6 yolcu taşıyabilir ve en fazla 6 orta boy valiz ile seyahat edebilir.\n\nMinibüs 12\nMinibüs 12 en fazla 12 yolcu taşıyabilir ve en fazla 12 orta boy valiz ile seyahat edebilir.\n\nMinibüs 16\nMinibüs 16 en fazla 16 yolcu taşıyabilir ve en fazla 16 orta boy valiz ile seyahat edebilir.\n\nOrta Boy Valiz ve Küçük Eşyalar\nLütfen dikkat: Orta boy bir valizin ağırlığı en fazla 20 kg olmalıdır. Ayrıca her kişi için 1 küçük eşya (dizüstü bilgisayar çantası, kamera çantası veya omuz çantası gibi) taşınabilir. Lütfen yolcu sayısı ve bagaj miktarınıza uygun aracı tercih etmenizi öneririz.\n\nOrta Boy Valiz Ölçüleri\nOrta boy bir valizin maksimum ölçüleri:\n\n66 x 44 x 27 cm\n26 x 17 x 10 inç",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "12"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-24T17:14:27.621Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-24T17:14:27.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685ade76836df1e55c11f904"
+  },
+  "soru": "Aşırı Bagajla Seyahat",
+  "cevap": "Momtur olarak müşterilerimize en iyi hizmeti sunmaya kararlıyız. Bu nedenle web sitemizde gösterilen maksimum bagaj hakkı, güvenlik gereksinimlerine dayanmaktadır ve bu sınırın aşılmasını önermiyoruz.\nşırı Bagaj Nasıl Taşınır?\nEğer izin verilen bagajdan fazlasıyla seyahat edecek iseniz, tüm eşyalarınızı taşıyabilecek kadar araç rezerve etmeniz gerekir. Bu, araç kapasitesini aşmadan güvenli bir taşıma sağlar. Momtur olarak, Mercedes Vito modellerimiz gibi temiz ve bakımlı araçlarımızla kapasiteye uygun çözümler sunuyoruz \n.\n\nİzin Verilen Bagajdan Fazlasıyla Seyahat\nLütfen şoförlerimizin fazla bagaj nedeniyle hizmeti reddetme hakkına sahip olduğunu ve aşırı bagajın ek ücretlere yol açabileceğini unutmayın. Bu durumda, ek araçlar veya özel araçlar için ilave ücret talep edilebilir \n.\n\nGüvenlik Birincil Önceliğimizdir\nMomtur olarak en önemli değerimiz güvenlik olup, belirtilen kurallara uymak tüm müşterilerimizin güvenli yolculuk yapmasını sağlar. Lüks ve konforlu Mercedes Vito araçlarımız, profesyonel şoförlerimizle birlikte yolculuğunuzu hem güvenli hem de keyifli kılar \n.\n\nİletişim\nBagaj hakkı hakkında sorularınız varsa, müşteri hizmetlerimiz her zaman yardımcı olmaktan memnuniyet duyar. Bodrum’da VIP transfer hizmetleri, havalimanı transferleri, özel turlar ve yat transferleri ile hizmet sunuyoruz \n.\n\nSıkça Sorulan Sorular (SSS)\nAşırı bagaj ücretleri nasıl hesaplanır?\nBazı taşıyıcılarda aşırı bagaj, ek ücretlendirilir. Ancak Momtur olarak, fazla bagaj için ek araç rezervasyonu öneriyoruz.\nÖnceden rezervasyon yapmadan fazla bagaj taşıyabilir miyim?\nHayır, fazla bagaj taşıma kapasitesi olan ek araçları önceden ayırmak zorunludur. Aksi takdirde taşınma riski doğabilir \n.\nBagaj için boyut sınırlamaları var mı?\nEvet, bazı taşıyıcılarda bagajın toplam boyutları 158 cm'yi aşarsa aşırı bagaj olarak kabul edilir. Momtur araçlarımızda bu limit, araç kapasitesine göre belirlenir \n.\nİzin verilen bagajdan fazlasını taşımak için ne yapmalıyım?\nEk araç rezerve edin veya aşırı bagaj ücreti ödemeyi kabul edin. Ancak şoförlerimizin hizmeti reddetme hakkı saklıdır \n.\nYolculuk günü ek bagaj ekleyebilir miyim?\nAraç kapasitesi müsaitse mümkün olabilir, ancak önceden planlamak en güvenli yoldur.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "13"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-24T17:20:54.480Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-24T17:20:54.480Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685adef07152f677a5ce68fc"
+  },
+  "soru": "Momtur ile Hayvan Taşıma",
+  "cevap": "Momtur ile rezervasyon yaparken, \"Şoför için Notlar\" alanına taşıyacağınız herhangi bir hayvanla ilgili detayları eklemek zorunludur. Bu, uygun kapasitede ve boyutta bir aracın gönderilmesini sağlar, böylece yolcu ve hayvan sayısı dikkate alınır. Başlangıçta doğru bilgi verilmezse ek ücretler uygulanabilir. Ayrıca, hayvanlar uygun kafeslerde veya taşıyıcılarda tutulmalıdır; aksi takdirde şoförler taşımayı reddedebilir ",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "14"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-06-24T17:22:56.370Z"
+  },
+  "guncellendi": {
+    "$date": "2025-06-24T17:22:56.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686667f19b3fd5dd5e9563f4"
+  },
+  "soru": "Türkiye için ideal seyahat zamanı nedir?",
+  "cevap": "Bölgelere Göre İdeal Zamanlar\nAkdeniz & Ege Kıyıları (Antalya, Bodrum, Fethiye):\n\nEn İyi Zaman: Nisan-Mayıs ve Eylül-Ekim\n\nSıcaklık: 20-27°C arası, aşırı sıcaklardan kaçınmak için uygun 15.\n\nDeniz Suyu: Eylül'de 27°C'ye kadar ılık, yüzme için idealdir 1.\n\nYaz Dönemi (Haziran-Ağustos):\n\nAvantaj: Tam plaj sezonu, su sıcaklığı 23-27°C.\n\nDezavantaj: Aşırı kalabalık ve fiyatların %30-50 artması; sıcaklık 40°C'yi aşabilir 17.\n\nİstanbul & Marmara Bölgesi:\n\nEn İyi Zaman: Mayıs-Haziran ve Eylül-Ekim\n\nSıcaklık: 20-28°C, gezi için konforlu 23.\n\nFestivaller: Nisan'da Lale Festivali, Temmuz'da Caz Festivali 3.\n\nKış (Aralık-Şubat):\n\nAvantaj: Ucuz konaklama, saklı mekanlar keşfi.\n\nDezavantaj: Ortalama 3-8°C, yağış ve kar olasılığı yüksek 23.\n\nKapadokya & İç Anadolu:\n\nEn İyi Zaman: Nisan-Mayıs ve Eylül-Ekim\n\nSıcaklık: Gündüz 20-25°C, balon turları için idealdir 57.\n\nKış: Karlı manzaralar ancak sıcaklık -5°C'ye düşebilir; kar nedeniyle ulaşım zorlaşabilir 14.\n\nDoğu Anadolu & Güneydoğu (Van, Şanlıurfa):\n\nEn İyi Zaman: Haziran-Eylül\n\nSıcaklık: 25-30°C, kışın -10°C'ye düşer ve ulaşım aksayabilir 1.\n\nBaharda: Doğa yürüyüşleri için uygun ancak gece soğuk olabilir.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "15"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-03T11:22:24.265Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-03T11:22:24.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866d422333fffb082803f4f"
+  },
+  "soru": "Bodrum Neden Popüler Oldu?",
+  "cevap": "Bir zamanlar sadece küçük balıkçı teknelerinin demirlediği bir liman olan Bodrum, son yıllarda dünyaca ünlü yat yarışları, uluslararası konuklarının gelmesiyle ve lüks altyapısıyla dünya çapında tanınan bir tatil beldesine dönüştü.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "16"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-03T19:04:02.474Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-03T19:04:02.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866d440333fffb082803f50"
+  },
+  "soru": "Bodrum’a Kimler Geliyor?",
+  "cevap": "Bodrum’a her yıl birçok ülkeden ünlü isimler, iş insanları, politikacılar ve sporcular gelmektedir. Özellikle yaz aylarında ABD, Rusya, Arap ülkeleri ve Avrupa’dan gelen çok sayıda zengin ve ünlü turist burayı tercih eder.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "17"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-03T19:04:32.501Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-03T19:04:32.501Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866d6554a2f57c9347dccf3"
+  },
+  "soru": "Bodrum Pahalı mı?",
+  "cevap": "Evet, Bodrum özellikle yaz sezonunda Türkiye’nin en pahalı tatil bölgelerinden biridir. Bazı villalar gecelik 50.000 Dolar’a kadar çıkabiliyor. Ancak bütçeye uygun seçenekler de mevcuttur.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "18"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-03T19:13:25.362Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-03T19:13:25.362Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866d66d4a2f57c9347dccf4"
+  },
+  "soru": "Bodrum’da Hangi Ünlüler Kalıyor?",
+  "cevap": "Her yıl farklı ünlüler Bodrum’u ziyaret etmektedir. Geçmişte Bebek Bayezıt, Leonardo DiCaprio gibi isimlerin yanı sıra birçok Türk sanatçısı ve futbolcu da Bodrum’da tatil yaptığı bilinmektedir.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "19"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-03T19:13:49.451Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-03T19:13:49.451Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866d7644a2f57c9347dccf5"
+  },
+  "soru": "Bodrum’a Nasıl Gidilir?",
+  "cevap": "Milas-Bodrum Havalimanı üzerinden uçuşlar yapılabilir.\nOtobüs, otomobil veya deniz yoluyla da ulaşım mümkündür.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "20"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-03T19:17:56.424Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-03T19:17:56.424Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867d53952c63ce069574f33"
+  },
+  "soru": "Bodrum’dan Antalya’ya Transfer Var mı?",
+  "cevap": "Evet, Bodrum’dan Antalya’ya özel araçlarla uzun mesafe transfer hizmeti verilmektedir. Bu hizmet genellikle aile grupları veya iş gezileri için tercih edilir.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "1"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-04T13:20:57.699Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-04T13:20:57.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867fb1d7e1af6fdb4d86406"
+  },
+  "soru": "Bodrum’dan Dalaman Havalimanına Nasıl Giderim?",
+  "cevap": "Bodrum’dan Dalaman Havalimanına özel araçlarla transfer sağlanabilmektedir. Bu rotada \"Bodrum Dalaman Transfer\" hizmeti sıkça tercih edilmektedir.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "21"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-04T16:02:37.255Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-04T16:02:37.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867fb2b7e1af6fdb4d86407"
+  },
+  "soru": "Türkbükü Bölgesine Bodrum Havaalanı Transferi Mevcut mu?",
+  "cevap": "Evet, Türkbükü gibi premium yerleşim bölgelerine özel araçlarla Bodrum Havaalanı Türkbükü Transfer hizmeti verilmektedir.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "22"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-04T16:02:51.305Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-04T16:02:51.305Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867fb45742576ec8450a3cc"
+  },
+  "soru": "Bodrum’a Özel Araba ile Transfer Almak İçin Ne Yapmalıyım?",
+  "cevap": "Online rezervasyon sistemi üzerinden istediğiniz tarih, saat ve araç tipini seçerek önceden özel araç ile Bodrum transfer ayırtabilirsiniz.",
+  "kategori": "",
+  "sira": {
+    "$numberLong": "23"
+  },
+  "aktif": true,
+  "olusturuldu": {
+    "$date": "2025-07-04T16:03:17.942Z"
+  },
+  "guncellendi": {
+    "$date": "2025-07-04T16:03:17.942Z"
+  }
+}]
