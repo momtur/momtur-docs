@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Momtur.com",
+  "name": "MOMTUR",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -141,10 +141,6 @@
         ]
       }
     ]
-  },
-  "logo": {
-    "light": "/logo/new_light.svg",
-    "dark": "/logo/new_dark.svg"
   },
   "navbar": {
     "links": [
