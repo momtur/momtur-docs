@@ -22,6 +22,19 @@
         ]
       },
       {
+        "tab": "Locations",
+        "groups": [
+          {
+            "group": "Provinces",
+            "pages": [
+              "locations/mugla/index",
+              "locations/aydin/index",
+              "locations/izmir/index"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Airports",
         "groups": [
           {
