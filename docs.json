@@ -142,6 +142,10 @@
       }
     ]
   },
+  "logo": {
+    "light": "/logo/MOMTUR.png",
+    "dark": "/logo/MOMTUR__1_-removebg-preview.png"
+  },
   "navbar": {
     "links": [
       {
