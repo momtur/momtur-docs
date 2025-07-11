@@ -150,11 +150,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:destek@momtur.com"
+        "href": "mailto:info@momtur.com"
       }
     ]
   },
   "footer": {
-    "socials": {}
+    "socials": {
+      
+    }
   }
 }
