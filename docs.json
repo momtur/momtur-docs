@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Kılavuzlar",
+        "tab": "Guides",
         "groups": [
           {
-            "group": "Başlarken",
+            "group": "Getting Started",
             "pages": [
               "index"
             ]
@@ -22,10 +22,26 @@
         ]
       },
       {
-        "tab": "API Referansı",
+        "tab": "Airports",
         "groups": [
           {
-            "group": "API Dokümantasyonu",
+            "group": "All Airports",
+            "pages": [
+              "airports/airports",
+              "airports/milas-bodrum/index",
+              "airports/dalaman/index",
+              "airports/adnan-menderes/index",
+              "airports/antalya/index",
+              "airports/istanbul/index"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "API Reference",
+        "groups": [
+          {
+            "group": "API Documentation",
             "pages": [
               "api-reference/introduction"
             ]
@@ -41,7 +57,7 @@
   "navbar": {
     "links": [
       {
-        "label": "Destek",
+        "label": "Support",
         "href": "mailto:destek@momtur.com"
       }
     ]
