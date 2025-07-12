@@ -135,7 +135,9 @@
               "services/corporate-transportation",
               "services/event-transfers",
               "services/airport-transfer",
-              "services/wedding-packages"
+              "services/wedding-packages",
+              "services/service-process",
+              "services/additional-services"
             ]
           }
         ]
@@ -200,6 +202,17 @@
             "group": "Bus",
             "pages": [
               "araclar/otobus/mercedes-travego"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Legal",
+        "groups": [
+          {
+            "group": "Legal Information",
+            "pages": [
+              "legal/privacy-policy"
             ]
           }
         ]
