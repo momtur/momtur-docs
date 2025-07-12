@@ -22,6 +22,22 @@
         ]
       },
       {
+        "tab": "Bodrum Transfer",
+        "groups": [
+          {
+            "group": "Mahalleler",
+            "pages": [
+              "bodrum-transfer/index",
+              "bodrum-transfer/bitez",
+              "bodrum-transfer/gumbet",
+              "bodrum-transfer/turgutreis",
+              "bodrum-transfer/yalikavak",
+              "bodrum-transfer/golturkbuku"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Locations",
         "groups": [
           {
