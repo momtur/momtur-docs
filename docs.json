@@ -25,11 +25,75 @@
         "tab": "Locations",
         "groups": [
           {
-            "group": "Provinces",
+            "group": "Muğla",
             "pages": [
               "locations/mugla/index",
+              {
+                "group": "İlçeler",
+                "pages": [
+                  "locations/mugla/bodrum/index",
+                  "locations/mugla/dalaman/index",
+                  "locations/mugla/datca/index",
+                  "locations/mugla/fethiye/index",
+                  "locations/mugla/kavaklidere/index",
+                  "locations/mugla/koycegiz/index",
+                  "locations/mugla/marmaris/index",
+                  "locations/mugla/mentese/index",
+                  "locations/mugla/milas/index",
+                  "locations/mugla/ortaca/index",
+                  "locations/mugla/seydikemer/index",
+                  "locations/mugla/ula/index",
+                  "locations/mugla/yatagan/index"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Aydın",
+            "pages": [
               "locations/aydin/index",
-              "locations/izmir/index"
+              {
+                "group": "İlçeler",
+                "pages": [
+                  "locations/aydin/kusadasi/index",
+                  "locations/aydin/didim/index"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "İzmir",
+            "pages": [
+              "locations/izmir/index",
+              {
+                "group": "İlçeler",
+                "pages": [
+                  "locations/izmir/balcova/index",
+                  "locations/izmir/bergama/index",
+                  "locations/izmir/bornova/index",
+                  "locations/izmir/buca/index",
+                  "locations/izmir/cesme/index",
+                  "locations/izmir/cigli/index",
+                  "locations/izmir/dikili/index",
+                  "locations/izmir/foca/index",
+                  "locations/izmir/gaziemir/index",
+                  "locations/izmir/guzelbahce/index",
+                  "locations/izmir/karabaglar/index",
+                  "locations/izmir/karaburun/index",
+                  "locations/izmir/karsiyaka/index",
+                  "locations/izmir/kemalpasa/index",
+                  "locations/izmir/kiraz/index",
+                  "locations/izmir/menderes/index",
+                  "locations/izmir/menemen/index",
+                  "locations/izmir/narlidere/index",
+                  "locations/izmir/odemis/index",
+                  "locations/izmir/seferihisar/index",
+                  "locations/izmir/selcuk/index",
+                  "locations/izmir/tire/index",
+                  "locations/izmir/torbali/index",
+                  "locations/izmir/urla/index"
+                ]
+              }
             ]
           }
         ]
