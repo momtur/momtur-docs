@@ -23,14 +23,7 @@
       },
       {
         "tab": "Fırsatlar",
-        "groups": [
-          {
-            "group": "Bodrum Özel Fırsatları",
-            "pages": [
-              "firsatlar/bodrum-ozel-firsatlar"
-            ]
-          }
-        ]
+        "href": "firsatlar/bodrum-ozel-firsatlar"
       },
       {
         "tab": "Bodrum Transfer",
