@@ -27,7 +27,11 @@
           {
             "group": "Bodrum Special Deals",
             "pages": [
-              "deals/bodrum-special-deals"
+              "deals/bodrum-special-deals",
+              "deals/cultural-heritage",
+              "deals/yacht-culture",
+              "deals/beach-life",
+              "deals/local-cuisine"
             ]
           }
         ]
