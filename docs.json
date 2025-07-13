@@ -22,8 +22,15 @@
         ]
       },
       {
-        "tab": "Fırsatlar",
-        "href": "firsatlar/bodrum-ozel-firsatlar"
+        "tab": "Deals",
+        "groups": [
+          {
+            "group": "Bodrum Special Deals",
+            "pages": [
+              "deals/bodrum-special-deals"
+            ]
+          }
+        ]
       },
       {
         "tab": "Bodrum Transfer",
