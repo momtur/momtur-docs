@@ -1,4 +1,5 @@
 # Mintlify Starter Kit
+tags: [readme, guide, mintlify, development]
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 

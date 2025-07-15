@@ -16,7 +16,19 @@
           {
             "group": "Getting Started",
             "pages": [
-              "index"
+              "index",
+              "bodrum-airport-transportation-guide"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "About",
+        "groups": [
+          {
+            "group": "About Us",
+            "pages": [
+              "our-values"
             ]
           }
         ]
