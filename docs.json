@@ -29,13 +29,15 @@
             "group": "Popular Places",
             "pages": [
               "places/popular-places",
+              "places/camel-beach",
               "places/sips-bodrum",
               "places/macakizi",
               "places/lucca",
               "places/miam",
               "places/xuma-beach",
               "places/nusr-et",
-              "places/zuma"
+              "places/zuma",
+              "places/dibeklihan-kultur-ve-sanat-koyu"
             ]
           }
         ]
@@ -79,7 +81,9 @@
               "bodrum-transfer/gumbet",
               "bodrum-transfer/turgutreis",
               "bodrum-transfer/yalikavak",
-              "bodrum-transfer/golturkbuku"
+              "bodrum-transfer/golturkbuku",
+              "bodrum-transfer/muskebi",
+              "bodrum-transfer/ciftlik"
             ]
           }
         ]
@@ -195,6 +199,8 @@
           {
             "group": "Our Services",
             "pages": [
+              "services/welcome-services",
+              "services/regional-airport-transfers",
               "services/corporate-transportation",
               "services/event-transfers",
               "services/airport-transfer",
