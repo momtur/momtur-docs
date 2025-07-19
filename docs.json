@@ -23,6 +23,24 @@
         ]
       },
       {
+        "tab": "Places",
+        "groups": [
+          {
+            "group": "Popular Places",
+            "pages": [
+              "places/popular-places",
+              "places/sips-bodrum",
+              "places/macakizi",
+              "places/lucca",
+              "places/miam",
+              "places/xuma-beach",
+              "places/nusr-et",
+              "places/zuma"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "About",
         "groups": [
           {
