@@ -11,6 +11,17 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Villas",
+        "groups": [
+          {
+            "group": "Bodrum Villas",
+            "pages": [
+              "villas/premium-villas"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
