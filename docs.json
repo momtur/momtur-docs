@@ -294,7 +294,10 @@
           {
             "group": "Legal Information",
             "pages": [
-              "legal/privacy-policy"
+              "legal/privacy-policy",
+              "legal/cookie-policy",
+              "legal/terms-of-service",
+              "legal/professional-competency"
             ]
           }
         ]
