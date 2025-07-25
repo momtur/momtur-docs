@@ -1,0 +1,21 @@
+{
+  "mcp": {
+    "exa": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.exa.ai/mcp?exaApiKey=4aba18ba-0d85-4e4d-8831-7be3cc3693e4"
+      ]
+    },
+    "cloudinary-asset-mgmt": {
+      "command": "npx",
+      "args": ["-y", "--package", "@cloudinary/asset-management", "--", "mcp", "start"],
+      "env": {
+        "CLOUDINARY_CLOUD_NAME": "djzzikcey",
+        "CLOUDINARY_API_KEY": "349351275982472",
+        "CLOUDINARY_API_SECRET": "L0Kj-W97UlYrHk4I4wHwsHlBRTg"
+      }
+    }
+  }
+}

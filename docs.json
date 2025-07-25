@@ -34,6 +34,21 @@
         ]
       },
       {
+        "tab": "Blog",
+        "groups": [
+          {
+            "group": "Latest Posts",
+            "pages": [
+              "blog/index",
+              "blog/malta-sahini-bodrum-turk-yapimi-dunyanin-en-buyuk-yelkenlisi",
+              "blog/pamukkale-gizli-hazinesi-tripolis-antik-kenti-1600-yillik-luks-villa-kesfi",
+              "blog/turkiye-havaciliginda-tarihi-rekor-gunede-6133-ucus-ile-dunya-liginde",
+              "blog/avrupadaki-turklerin-ucak-bileti-krizi-analiz-nedenler-ve-cozum-onerileri"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Places",
         "groups": [
           {
