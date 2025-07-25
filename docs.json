@@ -11,6 +11,17 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Villas",
+        "groups": [
+          {
+            "group": "Bodrum Villas",
+            "pages": [
+              "villas/premium-villas"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
@@ -18,6 +29,26 @@
             "pages": [
               "index",
               "bodrum-airport-transportation-guide"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Places",
+        "groups": [
+          {
+            "group": "Popular Places",
+            "pages": [
+              "places/popular-places",
+              "places/camel-beach",
+              "places/sips-bodrum",
+              "places/macakizi",
+              "places/lucca",
+              "places/miam",
+              "places/xuma-beach",
+              "places/nusr-et",
+              "places/zuma",
+              "places/dibeklihan-kultur-ve-sanat-koyu"
             ]
           }
         ]
@@ -61,7 +92,11 @@
               "bodrum-transfer/gumbet",
               "bodrum-transfer/turgutreis",
               "bodrum-transfer/yalikavak",
-              "bodrum-transfer/golturkbuku"
+              "bodrum-transfer/golturkbuku",
+              "bodrum-transfer/muskebi",
+              "bodrum-transfer/mazi",
+              "bodrum-transfer/cokertme",
+              "bodrum-transfer/ciftlik"
             ]
           }
         ]
@@ -177,6 +212,8 @@
           {
             "group": "Our Services",
             "pages": [
+              "services/welcome-services",
+              "services/regional-airport-transfers",
               "services/corporate-transportation",
               "services/event-transfers",
               "services/airport-transfer",
@@ -272,7 +309,10 @@
           {
             "group": "Legal Information",
             "pages": [
-              "legal/privacy-policy"
+              "legal/privacy-policy",
+              "legal/cookie-policy",
+              "legal/terms-of-service",
+              "legal/professional-competency"
             ]
           }
         ]
