@@ -1,242 +1,242 @@
 ---
-title: "Fethiye Otelleri Havalimanı Transfer Rehberi 2025"
-description: "Fethiye ve Ölüdeniz otellerine transfer rehberi. Yazz Collective, Hotel Greenland, Izz Getaway gibi özel konsept otellere ulaşım detayları"
+title: "Fethiye Hotels Airport Transfer Guide 2025"
+description: "Transfer guide to Fethiye and Oludeniz hotels. Transportation details to special concept hotels like Yazz Collective, Hotel Greenland, Izz Getaway"
 date: "2025-01-29"
-slug: "fethiye-otelleri-havalimani-transfer-rehberi"
-tags: ["fethiye", "ölüdeniz", "dalaman havalimanı", "otel transferi", "göcek", "fethiye otelleri"]
+slug: "fethiye-hotels-airport-transfer-guide"
+tags: ["fethiye", "oludeniz", "dalaman airport", "hotel transfer", "gocek", "fethiye hotels"]
 author: "MOMTUR Team"
 ---
 
-# Fethiye Otelleri Havalimanı Transfer Rehberi 2025
+# Fethiye Hotels Airport Transfer Guide 2025
 
-Fethiye, Likya uygarlığının izlerini taşıyan tarihi dokusu, dünyaca ünlü Ölüdeniz'i ve eşsiz koylarıyla Türkiye'nin en özel tatil destinasyonlarından biridir. Kelebekler Vadisi, Saklıkent Kanyonu ve 12 Adalar ile ünlü bu cennet köşe, her mevsim ziyaretçilerini büyülemeye devam ediyor. Momtur.com olarak, Fethiye'deki otellere konforlu ulaşım için detaylı bir rehber hazırladık.
+Fethiye, with its historical texture bearing traces of the Lycian civilization, world-famous Oludeniz, and unique coves, is one of Turkey's most special holiday destinations. This corner of paradise, famous for Butterfly Valley, Saklikent Canyon and 12 Islands, continues to enchant visitors every season. As Momtur.com, we have prepared a detailed guide for comfortable transportation to hotels in Fethiye.
 
-## Fethiye'ye Nasıl Ulaşılır?
+## How to Get to Fethiye?
 
-### Dalaman Havalimanı (DLM) - En Yakın Seçenek
-Fethiye'ye sadece 45 km mesafedeki Dalaman Havalimanı, şehre ulaşımda en pratik seçenektir.
+### Dalaman Airport (DLM) - The Nearest Option
+Dalaman Airport, only 45 km from Fethiye, is the most practical option for reaching the city.
 
-**Transfer Alternatifleri:**
+**Transfer Alternatives:**
 
 1. **Momtur.com Premium Transfer**
-   - Özel karşılama hizmeti
-   - Mercedes, Volkswagen araç filosu
-   - Profesyonel, yerel sürücüler
-   - Ücretsiz bekleme süresi
-   - Online rezervasyon kolaylığı
+   - Special meet and greet service
+   - Mercedes, Volkswagen vehicle fleet
+   - Professional, local drivers
+   - Free waiting time
+   - Online booking convenience
 
-2. **Havaalanı Servisleri**
-   - Belirli saatlerde hareket
-   - Şehir merkezine ulaşım
-   - Ekonomik alternatif
+2. **Airport Shuttles**
+   - Depart at specific times
+   - Transportation to city center
+   - Economic alternative
 
 3. **Rent a Car**
-   - Özgürce keşif imkanı
-   - Havalimanında teslim
-   - Çevre gezileri için ideal
+   - Freedom to explore
+   - Airport pickup
+   - Ideal for regional trips
 
 <Info>
-**Gezgin İpucu:** Dalaman-Fethiye yolu, Türkiye'nin en manzaralı rotalarından biridir. Gün batımı saatlerinde transfer rezervasyonu yaparak muhteşem görüntülere tanık olabilirsiniz.
+**Travel Tip:** The Dalaman-Fethiye road is one of Turkey's most scenic routes. Book your transfer during sunset hours to witness spectacular views.
 </Info>
 
-## Fethiye'nin Benzersiz Otelleri
+## Fethiye's Unique Hotels
 
-### Özel Konsept Oteller
+### Special Concept Hotels
 
 **Yazz Collective**
-- Akdeniz'in en yeni destinasyonu
-- Özel koyda, sadece denizle ulaşım
-- Transfer + tekne kombinasyonu gerekli
-- 16 şık konuk evi
-- Dalaman'dan özel transfer sonrası tekne bağlantısı
-- Yaratıcılar ve sanatçılar için tasarlanmış
+- Mediterranean's newest destination
+- In a private bay, accessible only by sea
+- Transfer + boat combination required
+- 16 stylish guest houses
+- Boat connection after private transfer from Dalaman
+- Designed for creators and artists
 
-**Hotel Greenland - Ölüdeniz**
-- 2000 yılından beri hizmet veren köklü tesis
-- Ölüdeniz'in öncü otellerinden
-- Dalaman Havalimanı: 60 km (50-60 dakika)
-- Ödüllü otel konsepti
-- Lagün'e yakın konum
+**Hotel Greenland - Oludeniz**
+- Established facility serving since 2000
+- One of Oludeniz's pioneer hotels
+- Dalaman Airport: 60 km (50-60 minutes)
+- Award-winning hotel concept
+- Close to the Lagoon
 
-**Izz Getaway - Göcek**
-- Orman içinde özel lokasyon
-- 18 oda + 14 villa (özel havuzlu)
-- Dalaman Havalimanı: 25 km (25-30 dakika)
-- Doğayla iç içe lüks konsept
-- GAZE Restaurant ile gurme deneyimi
+**Izz Getaway - Gocek**
+- Special location in the forest
+- 18 rooms + 14 villas (with private pools)
+- Dalaman Airport: 25 km (25-30 minutes)
+- Luxury concept in harmony with nature
+- Gourmet experience with GAZE Restaurant
 
-### Koy ve Sahil Otelleri
+### Bay and Coastal Hotels
 
 **Faralia Hotel**
-- Doğanın kalbinde huzurlu ortam
-- Dalaman Havalimanı: 65 km (60-70 dakika)
-- Mental ve fiziksel dinlenme odaklı
-- Butik otel deneyimi
+- Peaceful environment in the heart of nature
+- Dalaman Airport: 65 km (60-70 minutes)
+- Focused on mental and physical relaxation
+- Boutique hotel experience
 
 **Seaview Faralya**
-- Akdeniz ve Ege'nin buluştuğu Faralya'da
-- Muhteşem deniz manzarası
-- Dalaman Havalimanı: 70 km (70-80 dakika)
-- Butik otel sıcaklığı ve lüks tatil
+- In Faralya where Mediterranean and Aegean meet
+- Magnificent sea view
+- Dalaman Airport: 70 km (70-80 minutes)
+- Boutique hotel warmth and luxury vacation
 
-## Transfer Rotaları ve Tahmini Süreler
+## Transfer Routes and Estimated Times
 
-### Dalaman Havalimanı'ndan Mesafeler:
-- **Fethiye Merkez**: 45 km - 45-50 dakika
-- **Ölüdeniz**: 60 km - 50-60 dakika
-- **Çalış Plajı**: 50 km - 45-55 dakika
-- **Göcek**: 20 km - 20-25 dakika
-- **Faralya**: 70 km - 70-80 dakika
-- **Kabak Koyu**: 75 km - 80-90 dakika
+### Distances from Dalaman Airport:
+- **Fethiye Center**: 45 km - 45-50 minutes
+- **Oludeniz**: 60 km - 50-60 minutes
+- **Calis Beach**: 50 km - 45-55 minutes
+- **Gocek**: 20 km - 20-25 minutes
+- **Faralya**: 70 km - 70-80 minutes
+- **Kabak Bay**: 75 km - 80-90 minutes
 
-### Alternatif Rotalar:
-- **Antalya Havalimanı**: 200 km - 3 saat
-- **Bodrum Havalimanı**: 220 km - 3.5 saat
+### Alternative Routes:
+- **Antalya Airport**: 200 km - 3 hours
+- **Bodrum Airport**: 220 km - 3.5 hours
 
 <CardGroup cols={2}>
-  <Card title="Göcek Marinası" icon="anchor">
-    Dalaman'a en yakın lüks marina (20 km)
+  <Card title="Gocek Marina" icon="anchor">
+    Closest luxury marina to Dalaman (20 km)
   </Card>
   
-  <Card title="Ölüdeniz Lagünü" icon="water">
-    Dünyaca ünlü plaj (60 km)
+  <Card title="Oludeniz Lagoon" icon="water">
+    World-famous beach (60 km)
   </Card>
   
-  <Card title="Kelebekler Vadisi" icon="butterfly">
-    Tekne ile ulaşılan doğa harikası
+  <Card title="Butterfly Valley" icon="butterfly">
+    Natural wonder accessible by boat
   </Card>
   
-  <Card title="Saklıkent Kanyonu" icon="mountain">
-    Merkeze 45 km, doğa macerası
+  <Card title="Saklikent Canyon" icon="mountain">
+    45 km from center, nature adventure
   </Card>
 </CardGroup>
 
-## Transfer Deneyimini Güzelleştiren İpuçları
+## Tips to Enhance Your Transfer Experience
 
-### Manzaralı Rota Önerileri
-Dalaman-Fethiye yolu, Türkiye'nin en güzel manzaralı rotalarından biridir:
-- Göcek körfezi manzarası
-- Çam ormanları arasından geçiş
-- Deniz kıyısı serpantinleri
-- Gün batımı saatlerinde büyüleyici görüntüler
+### Scenic Route Recommendations
+The Dalaman-Fethiye road is one of Turkey's most scenic routes:
+- Gocek gulf views
+- Passage through pine forests
+- Coastal serpentine roads
+- Enchanting views during sunset hours
 
-### Yolculuk Konforu İçin
-✓ Su ve atıştırmalık bulundurun
-✓ Araç tutması olanlar için önlemler alın
-✓ Fotoğraf çekmek için mola noktalarını sorun
-✓ Klima ayarını yolculuk öncesi belirtin
+### For Journey Comfort
+✓ Keep water and snacks
+✓ Take precautions for motion sickness
+✓ Ask about photo stops
+✓ Specify air conditioning preferences before the journey
 
-## Fethiye'de Popüler Destinasyonlar
+## Popular Destinations in Fethiye
 
-**Tarihi ve Doğal Alanlar**
-- Ölüdeniz Lagünü: Merkeze 15 km
-- Kelebekler Vadisi: Ölüdeniz'den tekne ile
-- Saklıkent Kanyonu: Merkeze 45 km
-- Kayaköy: Merkeze 8 km
-- Tlos Antik Kenti: Merkeze 40 km
+**Historical and Natural Areas**
+- Oludeniz Lagoon: 15 km from center
+- Butterfly Valley: By boat from Oludeniz
+- Saklikent Canyon: 45 km from center
+- Kayakoy: 8 km from center
+- Tlos Ancient City: 40 km from center
 
-**Plajlar ve Koylar**
-- Çalış Plajı: Merkeze 5 km
-- Kumburnu Plajı: Ölüdeniz'e 2 km
-- Gemiler Koyu: Kayaköy'e 7 km
-- Kabak Koyu: Faralya'ya 5 km
+**Beaches and Bays**
+- Calis Beach: 5 km from center
+- Kumburnu Beach: 2 km from Oludeniz
+- Gemiler Bay: 7 km from Kayakoy
+- Kabak Bay: 5 km from Faralya
 
-## Momtur.com Ayrıcalıkları
+## Momtur.com Privileges
 
-### Özel Hizmetler
-- **Yamaç Paraşütü Transferi**: Babadağ teleferik noktasına
-- **Tekne Turu Transferleri**: 12 Adalar turu için marina
-- **Dalış Merkezi Transferleri**: Dalış noktalarına ulaşım
-- **Jeep Safari Buluşma**: Tur başlangıç noktalarına
+### Special Services
+- **Paragliding Transfer**: To Babadag cable car point
+- **Boat Tour Transfers**: Marina for 12 Islands tour
+- **Diving Center Transfers**: Transportation to diving spots
+- **Jeep Safari Meeting**: To tour starting points
 
-### Konfor ve Güvenlik
-- Sigortalı ve ruhsatlı araçlar
-- COVID-19 hijyen protokolleri
-- Çocuk koltuğu ve booster seçenekleri
-- Engelli misafirler için özel araçlar
-- Pet-friendly transfer imkanı
+### Comfort and Safety
+- Insured and licensed vehicles
+- COVID-19 hygiene protocols
+- Child seat and booster options
+- Special vehicles for disabled guests
+- Pet-friendly transfer option
 
-## Sezona Göre Transfer Planlaması
+## Transfer Planning by Season
 
-**Yüksek Sezon (Haziran-Eylül)**
-- Erken rezervasyon şart
-- Sabah ve gece transferleri daha rahat
-- Festival dönemlerinde yoğunluk
+**High Season (June-September)**
+- Early booking essential
+- Morning and night transfers more comfortable
+- Busy during festival periods
 
-**Bahar/Sonbahar (Mart-Mayıs, Ekim-Kasım)**
-- İdeal hava koşulları
-- Daha az trafik yoğunluğu
-- Doğa yürüyüşleri için perfect
+**Spring/Autumn (March-May, October-November)**
+- Ideal weather conditions
+- Less traffic congestion
+- Perfect for nature walks
 
-**Kış Dönemi (Aralık-Şubat)**
-- Hava durumu takibi önemli
-- Alternatif rotalar hazır
-- Termal turizm transferleri
+**Winter Period (December-February)**
+- Weather monitoring important
+- Alternative routes ready
+- Thermal tourism transfers
 
-## Online Rezervasyon Sistemi
+## Online Booking System
 
-1. **Web Sitesi Üzerinden**
-   - momtur.com adresini ziyaret edin
-   - Kalkış-varış noktalarını seçin
-   - Tarih ve saat belirleyin
-   - Araç tipini seçin
+1. **Via Website**
+   - Visit momtur.com
+   - Select departure-arrival points
+   - Specify date and time
+   - Choose vehicle type
 
-2. **WhatsApp Rezervasyon**
-   - Hızlı iletişim
-   - Anlık fiyat bilgisi
-   - 7/24 destek
+2. **WhatsApp Booking**
+   - Quick communication
+   - Instant price information
+   - 24/7 support
 
-3. **Telefon ile Rezervasyon**
-   - Detaylı bilgi alma
-   - Özel istekler için
+3. **Phone Booking**
+   - For detailed information
+   - For special requests
 
-## Fethiye'den Çevre İlçelere Ulaşım
+## Transportation from Fethiye to Surrounding Districts
 
-**Yakın Destinasyonlar**
-- Fethiye → Göcek: 30 km
+**Nearby Destinations**
+- Fethiye → Gocek: 30 km
 - Fethiye → Kalkan: 80 km
-- Fethiye → Kaş: 110 km
+- Fethiye → Kas: 110 km
 - Fethiye → Dalyan: 90 km
 
-**Günlük Tur Mesafeleri**
+**Day Trip Distances**
 - Pamukkale: 220 km
-- Saklıkent: 45 km
+- Saklikent: 45 km
 - Xanthos: 65 km
 - Patara: 75 km
 
-## Sıkça Sorulan Sorular
+## Frequently Asked Questions
 
 <AccordionGroup>
-  <Accordion title="Yazz Collective'e nasıl ulaşabilirim?">
-    Önce Göcek'e transfer, ardından özel tekne ile otele ulaşım sağlanıyor. Komple paketi ayarlayabiliriz.
+  <Accordion title="How can I reach Yazz Collective?">
+    First transfer to Gocek, then transportation to the hotel by private boat. We can arrange the complete package.
   </Accordion>
   
-  <Accordion title="Bagajım çok fazla, sorun olur mu?">
-    Bagaj miktarınıza göre uygun araç ayarlıyoruz. Sörf tahtası, bisiklet gibi özel eşyaları belirtmeniz yeterli.
+  <Accordion title="I have a lot of luggage, will it be a problem?">
+    We arrange suitable vehicles according to your luggage amount. Just specify special items like surfboards, bicycles.
   </Accordion>
   
-  <Accordion title="Bebek arabasını araca sığdırabilir miyiz?">
-    Tüm araçlarımızda bebek arabası için yeterli bagaj alanı bulunuyor. Bebek koltuğu da sağlıyoruz.
+  <Accordion title="Can we fit the stroller in the car?">
+    All our vehicles have sufficient luggage space for strollers. We also provide baby seats.
   </Accordion>
   
-  <Accordion title="Fethiye'de gece hayatı var mı, gece transferi yapıyor musunuz?">
-    Fethiye'nin canlı gece hayatı var ve biz 7/24 transfer hizmeti veriyoruz.
+  <Accordion title="Is there nightlife in Fethiye, do you provide night transfers?">
+    Fethiye has vibrant nightlife and we provide 24/7 transfer service.
   </Accordion>
 </AccordionGroup>
 
-## İletişim Bilgileri
+## Contact Information
 
-**Momtur.com Rezervasyon Merkezi**
+**Momtur.com Reservation Center**
 📱 WhatsApp: +90 542 385 44 49
-☎️ Telefon: +90 542 385 44 49
-📧 E-posta: info@momtur.com
+☎️ Phone: +90 542 385 44 49
+📧 Email: info@momtur.com
 🌐 Web: www.momtur.com
-📍 Ofis: Fethiye/Muğla
+📍 Office: Fethiye/Mugla
 
-**Acil Durum Hattı**: 7/24 Ulaşılabilir
+**Emergency Line**: Available 24/7
 
 ---
 
 <Note>
-*Fethiye'nin eşsiz güzelliklerini keşfederken, güvenli ve konforlu transferin adresi Momtur.com. Likya'nın büyülü dünyasında unutulmaz anılar biriktirin, ulaşım derdini bize bırakın.*
+*While exploring Fethiye's unique beauties, Momtur.com is your address for safe and comfortable transfer. Collect unforgettable memories in Lycia's magical world, leave your transportation worries to us.*
 </Note>
