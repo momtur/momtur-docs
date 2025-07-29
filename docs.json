@@ -2,6 +2,28 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "MOMTUR",
+  "locales": [
+    {
+      "name": "Türkçe",
+      "code": "tr"
+    },
+    {
+      "name": "English",
+      "code": "en"
+    },
+    {
+      "name": "Deutsch",
+      "code": "de"
+    },
+    {
+      "name": "Русский",
+      "code": "ru"
+    },
+    {
+      "name": "العربية",
+      "code": "ar"
+    }
+  ],
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
