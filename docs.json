@@ -40,6 +40,10 @@
             "group": "Latest Posts",
             "pages": [
               "blog/index",
+              "blog/bodrum-otelleri-havalimani-transfer-rehberi",
+              "/blog/marmaris-otelleri-havalimani-transfer-rehberi",
+              "/blog/fethiye-otelleri-havalimani-transfer-rehberi",
+              "/blog/datca-otelleri-havalimani-transfer-rehberi",
               "blog/malta-sahini-bodrum-turk-yapimi-dunyanin-en-buyuk-yelkenlisi",
               "blog/pamukkale-gizli-hazinesi-tripolis-antik-kenti-1600-yillik-luks-villa-kesfi",
               "blog/turkiye-havaciliginda-tarihi-rekor-gunede-6133-ucus-ile-dunya-liginde",
@@ -262,7 +266,7 @@
         ]
       },
       {
-        "tab": "Blog",
+        "tab": "Services Blog",
         "groups": [
           {
             "group": "Latest Posts",
