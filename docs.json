@@ -49,7 +49,7 @@
           {
             "group": "Getting Started",
             "pages": [
-              "index",
+              "guides/index",
               "bodrum-airport-transportation-guide"
             ]
           }
@@ -81,6 +81,10 @@
             "group": "Popular Places",
             "pages": [
               "places/popular-places",
+              "places/mimoza-gumusluk",
+              "places/scorpios-bodrum",
+              "places/gemibasi-restaurant",
+              "places/kavanoz-yalikavak",
               "places/camel-beach",
               "places/sips-bodrum",
               "places/macakizi",
@@ -220,7 +224,7 @@
         ]
       },
       {
-        "tab": "Airports",
+        "tab": "Airports & Flights",
         "groups": [
           {
             "group": "All Airports",
@@ -232,17 +236,12 @@
               "airports/antalya/index",
               "airports/istanbul/index"
             ]
-          }
-        ]
-      },
-      {
-        "tab": "Flights",
-        "groups": [
+          },
           {
             "group": "Bodrum",
             "pages": [
-              "flights/bodrum/arrivals",
-              "flights/bodrum/departures"
+              "airports/milas-bodrum/arrivals",
+              "airports/milas-bodrum/departures"
             ]
           }
         ]
@@ -266,19 +265,14 @@
         ]
       },
       {
-        "tab": "Contact",
+        "tab": "Contact & FAQ",
         "groups": [
           {
             "group": "Contact Information",
             "pages": [
               "contact"
             ]
-          }
-        ]
-      },
-      {
-        "tab": "FAQ",
-        "groups": [
+          },
           {
             "group": "Frequently Asked Questions",
             "pages": [
