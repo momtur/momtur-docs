@@ -33,17 +33,6 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Villas",
-        "groups": [
-          {
-            "group": "Bodrum Villas",
-            "pages": [
-              "villas/premium-villas"
-            ]
-          }
-        ]
-      },
-      {
         "tab": "Guides",
         "groups": [
           {
@@ -104,7 +93,16 @@
           {
             "group": "About Us",
             "pages": [
-              "our-values"
+              "about/index"
+            ]
+          },
+          {
+            "group": "Legal Information",
+            "pages": [
+              "about/privacy-policy",
+              "about/cookie-policy",
+              "about/terms-of-service",
+              "about/professional-competency"
             ]
           }
         ]
@@ -122,7 +120,17 @@
               "deals/local-cuisine",
               "deals/bodrum-vip-transfer-experience",
               "deals/bodrum-wedding-venues-guide",
-              "deals/turkish-riviera-overview"            ]
+              "deals/turkish-riviera-overview"
+            ]
+          },
+          {
+            "group": "Bodrum Villas",
+            "pages": [
+              "deals/premium-villas",
+              "deals/ottoman-villa",
+              "deals/villa-ajnur",
+              "deals/villa-cimentepe"
+            ]
           }
         ]
       },
@@ -181,7 +189,8 @@
                 "group": "İlçeler",
                 "pages": [
                   "locations/aydin/kusadasi/index",
-                  "locations/aydin/didim/index"
+                  "locations/aydin/didim/index",
+                  "locations/aydin/bafa-golu/index"
                 ]
               }
             ]
@@ -334,20 +343,6 @@
             "group": "Bus",
             "pages": [
               "araclar/otobus/mercedes-travego"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Legal",
-        "groups": [
-          {
-            "group": "Legal Information",
-            "pages": [
-              "legal/privacy-policy",
-              "legal/cookie-policy",
-              "legal/terms-of-service",
-              "legal/professional-competency"
             ]
           }
         ]
