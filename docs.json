@@ -33,17 +33,6 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Villas",
-        "groups": [
-          {
-            "group": "Bodrum Villas",
-            "pages": [
-              "villas/premium-villas"
-            ]
-          }
-        ]
-      },
-      {
         "tab": "Guides",
         "groups": [
           {
@@ -75,7 +64,25 @@
               "places/xuma-beach",
               "places/nusr-et",
               "places/zuma",
-              "places/dibeklihan-kultur-ve-sanat-koyu"
+              "places/dibeklihan-kultur-ve-sanat-koyu",
+              "places/suyah",
+              "places/malva",
+              "places/ayla-macakizi",
+              "places/ruby-mare-bodrum",
+              "places/opaque-by-the-sea",
+              "places/hakkasan-bodrum",
+              "places/bagatelle-bodrum",
+              "places/azur-restaurant",
+              "places/miya-beach-yalikavak",
+              "places/moon-beach",
+              "places/momo-bodrum",
+              "places/folie-restaurant-and-sea",
+              "places/le-meridien-bodrum",
+              "places/cape-bodrum",
+              "places/mivara",
+              "places/caresse-luxury-collection",
+              "places/kaya-palazzo-le-chic-bodrum",
+              "places/susona-bodrum"
             ]
           }
         ]
@@ -86,7 +93,16 @@
           {
             "group": "About Us",
             "pages": [
-              "our-values"
+              "about/index"
+            ]
+          },
+          {
+            "group": "Legal Information",
+            "pages": [
+              "about/privacy-policy",
+              "about/cookie-policy",
+              "about/terms-of-service",
+              "about/professional-competency"
             ]
           }
         ]
@@ -104,7 +120,17 @@
               "deals/local-cuisine",
               "deals/bodrum-vip-transfer-experience",
               "deals/bodrum-wedding-venues-guide",
-              "deals/turkish-riviera-overview"            ]
+              "deals/turkish-riviera-overview"
+            ]
+          },
+          {
+            "group": "Bodrum Villas",
+            "pages": [
+              "deals/premium-villas",
+              "deals/ottoman-villa",
+              "deals/villa-ajnur",
+              "deals/villa-cimentepe"
+            ]
           }
         ]
       },
@@ -163,7 +189,8 @@
                 "group": "İlçeler",
                 "pages": [
                   "locations/aydin/kusadasi/index",
-                  "locations/aydin/didim/index"
+                  "locations/aydin/didim/index",
+                  "locations/aydin/bafa-golu/index"
                 ]
               }
             ]
@@ -320,20 +347,6 @@
             "group": "Bus",
             "pages": [
               "araclar/otobus/mercedes-travego"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Legal",
-        "groups": [
-          {
-            "group": "Legal Information",
-            "pages": [
-              "legal/privacy-policy",
-              "legal/cookie-policy",
-              "legal/terms-of-service",
-              "legal/professional-competency"
             ]
           }
         ]

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:susonabodrum.com)",
+      "WebFetch(domain:aylamacakizi.com)",
+      "WebFetch(domain:www.instagram.com)"
+    ],
+    "deny": []
+  }
+}
