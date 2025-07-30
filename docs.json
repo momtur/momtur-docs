@@ -55,25 +55,7 @@
           }
         ]
       },
-      {
-        "tab": "Blog",
-        "groups": [
-          {
-            "group": "Latest Posts",
-            "pages": [
-              "blog/index",
-              "blog/bodrum-hotels-airport-transfer-guide",
-              "blog/marmaris-hotels-airport-transfer-guide",
-              "blog/fethiye-hotels-airport-transfer-guide",
-              "blog/datca-hotels-airport-transfer-guide",
-              "blog/maltese-falcon-in-bodrum-turkish-built-worlds-largest-sailing-yacht",
-              "blog/pamukkale-hidden-treasure-tripolis-ancient-city-1600-year-old-luxury-villa-discovery",
-              "blog/historical-record-in-turkish-aviation-6133-flights-a-day",
-              "blog/flight-ticket-crisis-for-turks-in-europe-analysis-causes-and-solution-proposals"
-            ]
-          }
-        ]
-      },
+      
       {
         "tab": "Places",
         "groups": [
@@ -261,6 +243,24 @@
               "services/service-process",
               "services/additional-services"
             ]
+          },
+          {
+            "group": "Latest Posts",
+            "pages": [
+              "services/index",
+              "services/bodrum-hotels-airport-transfer-guide",
+              "services/marmaris-hotels-airport-transfer-guide",
+              "services/fethiye-hotels-airport-transfer-guide",
+              "services/datca-hotels-airport-transfer-guide",
+              "services/maltese-falcon-in-bodrum-turkish-built-worlds-largest-sailing-yacht",
+              "services/pamukkale-hidden-treasure-tripolis-ancient-city-1600-year-old-luxury-villa-discovery",
+              "services/historical-record-in-turkish-aviation-6133-flights-a-day",
+              "services/flight-ticket-crisis-for-turks-in-europe-analysis-causes-and-solution-proposals",
+              "services/bodrum-airport-transfer-guide",
+              "services/wedding-venues-bodrum",
+              "services/summer-holiday-bodrum",
+              "services/corporate-transfer-services"
+            ]
           }
         ]
       },
@@ -281,21 +281,7 @@
           }
         ]
       },
-      {
-        "tab": "Services Blog",
-        "groups": [
-          {
-            "group": "Latest Posts",
-            "pages": [
-              "blog/index",
-              "blog/bodrum-airport-transfer-guide",
-              "blog/wedding-venues-bodrum",
-              "blog/summer-holiday-bodrum",
-              "blog/corporate-transfer-services"
-            ]
-          }
-        ]
-      },
+      
       {
         "tab": "Vehicles",
         "groups": [
