@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:susonabodrum.com)",
       "WebFetch(domain:aylamacakizi.com)",
-      "WebFetch(domain:www.instagram.com)"
+      "WebFetch(domain:www.instagram.com)",
+      "Bash(rm:*)"
     ],
     "deny": []
   }
