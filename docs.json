@@ -301,7 +301,12 @@
               "services/bodrum-airport-transfer-guide",
               "services/wedding-venues-bodrum",
               "services/summer-holiday-bodrum",
-              "services/corporate-transfer-services"
+              "services/corporate-transfer-services",
+              "services/bodrum-family-vacation-guide",
+              "services/bodrum-historical-sites-guide",
+              "services/bodrum-luxury-accommodation-guide",
+              "services/bodrum-marinas-guide",
+              "services/bodrum-transportation-guide"
             ]
           }
         ]
