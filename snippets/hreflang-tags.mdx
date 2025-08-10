@@ -1,0 +1,24 @@
+export const HreflangTags = ({ path = "" }) => {
+  const baseUrl = "https://momtur.com";
+  const languages = [
+    { code: "en", label: "English" },
+    { code: "tr", label: "Türkçe" },
+    { code: "de", label: "Deutsch" },
+    { code: "ru", label: "Русский" },
+    { code: "ar", label: "العربية" }
+  ];
+  
+  return (
+    <>
+      <link rel="alternate" hrefLang="x-default" href={`${baseUrl}${path}`} />
+      {languages.map(lang => (
+        <link 
+          key={lang.code}
+          rel="alternate" 
+          hrefLang={lang.code} 
+          href={`${baseUrl}/${lang.code}${path}`} 
+        />
+      ))}
+    </>
+  );
+};

@@ -1,0 +1,67 @@
+# Momtur Robots.txt
+# https://momtur.com
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /private/
+
+# Allow search engines to access all content pages
+Allow: /services/
+Allow: /locations/
+Allow: /airports/
+Allow: /places/
+Allow: /about/
+Allow: /contact
+Allow: /faq
+
+# Sitemap location
+Sitemap: https://momtur.com/sitemap.xml
+Sitemap: https://momtur.com/sitemap-en.xml
+Sitemap: https://momtur.com/sitemap-tr.xml
+Sitemap: https://momtur.com/sitemap-de.xml
+Sitemap: https://momtur.com/sitemap-ru.xml
+Sitemap: https://momtur.com/sitemap-ar.xml
+
+# Crawl-delay for responsible crawling
+Crawl-delay: 1
+
+# Specific bot rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 1
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /

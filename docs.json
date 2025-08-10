@@ -1,7 +1,32 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "MOMTUR",
+  "name": "MOMTUR - Bodrum VIP Transfer & Private Tours",
+  "description": "Premium transportation services in Bodrum with luxury vehicles, professional drivers, and personalized tour experiences.",
+  "seo": {
+    "indexHiddenPages": false,
+    "noindex": false,
+    "canonical": "https://momtur.com",
+    "twitter": {
+      "site": "@momtur",
+      "creator": "@momtur"
+    },
+    "og": {
+      "siteName": "Momtur - Premium Bodrum Transportation",
+      "image": "https://res.cloudinary.com/djzzikcey/image/upload/v1753431200/momtur_luxury_transfer_bodrum_hero.jpg"
+    }
+  },
+  "metadata": {
+    "charset": "utf-8",
+    "viewport": "width=device-width, initial-scale=1",
+    "robots": "index, follow",
+    "author": "Momtur Team",
+    "keywords": "bodrum transfer, vip transfer, airport transfer, private tours, luxury transportation, bodrum airport, milas bodrum"
+  },
+  "analytics": {
+    "gtag": "G-XXXXXXXXXX",
+    "ga4": "G-XXXXXXXXXX"
+  },
   "locales": [
     {
       "name": "Türkçe",

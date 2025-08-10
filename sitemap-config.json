@@ -1,0 +1,75 @@
+{
+  "siteUrl": "https://momtur.com",
+  "generateRobotsTxt": true,
+  "changefreq": "weekly",
+  "priority": 0.7,
+  "sitemapSize": 5000,
+  "alternateRefs": [
+    {
+      "href": "https://momtur.com",
+      "hreflang": "x-default"
+    },
+    {
+      "href": "https://momtur.com/en",
+      "hreflang": "en"
+    },
+    {
+      "href": "https://momtur.com/tr",
+      "hreflang": "tr"
+    },
+    {
+      "href": "https://momtur.com/de",
+      "hreflang": "de"
+    },
+    {
+      "href": "https://momtur.com/ru",
+      "hreflang": "ru"
+    },
+    {
+      "href": "https://momtur.com/ar",
+      "hreflang": "ar"
+    }
+  ],
+  "exclude": [
+    "/404",
+    "/500",
+    "/api/*",
+    "/admin/*",
+    "/_next/*",
+    "/private/*"
+  ],
+  "transform": {
+    "/": {
+      "changefreq": "daily",
+      "priority": 1.0
+    },
+    "/services/*": {
+      "changefreq": "weekly",
+      "priority": 0.9
+    },
+    "/airports/*": {
+      "changefreq": "weekly",
+      "priority": 0.9
+    },
+    "/locations/*": {
+      "changefreq": "monthly",
+      "priority": 0.8
+    },
+    "/places/*": {
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    "/about": {
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    "/faq": {
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    "/contact": {
+      "changefreq": "yearly",
+      "priority": 0.6
+    }
+  }
+}
