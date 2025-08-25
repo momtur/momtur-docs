@@ -89,7 +89,7 @@ Located in [Göltürkbükü](/locations/bodrum/golturkbuku), Maçakızı is
 ### Maximum Links Per Page Type
 - **Long-form content** (>1000 words): 15-20 internal links
 - **Medium content** (500-1000 words): 8-12 internal links  
-- **Short content** (<500 words): 4-6 internal links
+- **Short content** (less than 500 words): 4-6 internal links
 
 ### Link Placement Priority
 1. **First paragraph** - 1-2 contextual links to main services
