@@ -37,14 +37,6 @@
       }
     ]
   },
-  "integrations": {
-    "custom": {
-      "seoFixer": {
-        "hostURL": "https://seo-fixer.writesonic.com",
-        "siteID": "687c9842e7e209b5e598adef"
-      }
-    }
-  },
   "locales": [
     {
       "name": "Türkçe",
