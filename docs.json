@@ -4,8 +4,8 @@
   "name": "MOMTUR - Bodrum VIP Transfer & Private Tours",
   "description": "Premium transportation services in Bodrum with luxury vehicles, professional drivers, and personalized tour experiences.",
   "head": [
-    "<script src=\"https://seo-fixer.writesonic.com/site-audit/fixer-script/index.js\" id=\"wsAiSeoMb\" type=\"application/javascript\"></script>",
-    "<script id=\"wsAiSeoInitScript\">wsSEOfixer.configure({hostURL: 'https://seo-fixer.writesonic.com',siteID: '687c9842e7e209b5e598adef'});</script>"
+    "<script async src=\"https://seo-fixer.writesonic.com/site-audit/fixer-script/index.js\" id=\"wsAiSeoMb\"></script>",
+    "<script>window.addEventListener('load', function() { if(typeof wsSEOfixer !== 'undefined') { wsSEOfixer.configure({hostURL: 'https://seo-fixer.writesonic.com', siteID: '687c9842e7e209b5e598adef'}); } });</script>"
   ],
   "seo": {
     "indexHiddenPages": false,
@@ -29,7 +29,21 @@
   },
   "analytics": {
     "gtag": "G-XXXXXXXXXX",
-    "ga4": "G-XXXXXXXXXX"
+    "ga4": "G-XXXXXXXXXX",
+    "customScripts": [
+      {
+        "src": "https://seo-fixer.writesonic.com/site-audit/fixer-script/index.js",
+        "id": "wsAiSeoMb"
+      }
+    ]
+  },
+  "integrations": {
+    "custom": {
+      "seoFixer": {
+        "hostURL": "https://seo-fixer.writesonic.com",
+        "siteID": "687c9842e7e209b5e598adef"
+      }
+    }
   },
   "locales": [
     {
