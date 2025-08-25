@@ -1,3 +1,10 @@
+---
+title: "SEO Testing, Deployment & Performance Tracking Guide"
+description: "Complete guide for SEO testing, deployment processes, and performance tracking for the Momtur website."
+keywords: "SEO, testing, deployment, performance, tracking, guide, Momtur"
+og:image: "https://res.cloudinary.com/djzzikcey/image/upload/v1753431200/momtur_luxury_transfer_bodrum_hero.jpg"
+---
+
 # SEO Testing, Deployment & Performance Tracking Guide
 
 ## 1. SEO & Mobile Testing Phase
@@ -6,19 +13,19 @@
 
 #### Google Tools
 ```bash
-# 1. Google PageSpeed Insights
+## 1. Google PageSpeed Insights
 https://pagespeed.web.dev/
 - Test each page type (homepage, service, location, hotel)
 - Target scores: Mobile > 90, Desktop > 95
 - Fix Core Web Vitals issues (LCP, FID, CLS)
 
-# 2. Google Mobile-Friendly Test
+## 2. Google Mobile-Friendly Test
 https://search.google.com/test/mobile-friendly
 - Test all critical pages
 - Ensure no mobile usability errors
 - Check text readability and tap targets
 
-# 3. Google Rich Results Test
+## 3. Google Rich Results Test
 https://search.google.com/test/rich-results
 - Validate structured data (JSON-LD)
 - Check for errors and warnings
@@ -27,19 +34,19 @@ https://search.google.com/test/rich-results
 
 #### SEO Analysis Tools
 ```bash
-# 1. Lighthouse (Chrome DevTools)
+## 1. Lighthouse (Chrome DevTools)
 - Performance score > 90
 - Accessibility score > 95
 - Best Practices score > 95
 - SEO score = 100
 
-# 2. SEMrush Site Audit
+## 2. SEMrush Site Audit
 - Technical SEO issues
 - On-page SEO analysis
 - Content quality check
 - Internal linking audit
 
-# 3. Ahrefs Site Audit
+## 3. Ahrefs Site Audit
 - Crawl errors
 - Broken links
 - Duplicate content
@@ -216,23 +223,23 @@ Mintlify Specific:
 
 #### Final Preparations
 ```bash
-# 1. Backup current site
+## 1. Backup current site
 - Database backup
 - File system backup
 - Configuration backup
 
-# 2. Test environment validation
+## 2. Test environment validation
 - Stage environment matches production
 - All features tested on staging
 - Performance benchmarks met
 
-# 3. DNS and SSL
+## 3. DNS and SSL
 - SSL certificate valid
 - DNS records configured
 - CDN settings optimized
 - Redirects configured
 
-# 4. Monitoring setup
+## 4. Monitoring setup
 - Google Analytics configured
 - Google Search Console verified
 - Uptime monitoring active
@@ -437,7 +444,7 @@ Functionality Tests:
 ### A. Monthly SEO Report Template
 
 ```markdown
-# Monthly SEO Report - [Month Year]
+## Monthly SEO Report - [Month Year]
 
 ## Executive Summary
 - Overall performance summary

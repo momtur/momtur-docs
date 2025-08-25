@@ -1,19 +1,23 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "MOMTUR - Bodrum VIP Transfer & Private Tours",
-  "description": "Premium transportation services in Bodrum with luxury vehicles, professional drivers, and personalized tour experiences.",
-  "seo": {
-    "indexHiddenPages": false,
-    "noindex": false,
-    "canonical": "https://momtur.com",
-    "twitter": {
-      "site": "@momtur",
-      "creator": "@momtur"
+  \"$schema\": \"https://mintlify.com/docs.json\",
+  \"theme\": \"mint\",
+  \"name\": \"MOMTUR - Bodrum VIP Transfer & Private Tours\",
+  \"description\": \"Premium transportation services in Bodrum with luxury vehicles, professional drivers, and personalized tour experiences.\",
+  \"head\": [
+    \"<script src=\\\"https://seo-fixer.writesonic.com/site-audit/fixer-script/index.js\\\" id=\\\"wsAiSeoMb\\\" type=\\\"application/javascript\\\"></script>\",
+    \"<script id=\\\"wsAiSeoInitScript\\\">wsSEOfixer.configure({hostURL: 'https://seo-fixer.writesonic.com',siteID: '687c9842e7e209b5e598adef'});</script>\"
+  ],
+  \"seo\": {
+    \"indexHiddenPages\": false,
+    \"noindex\": false,
+    \"canonical\": \"https://momtur.com\",
+    \"twitter\": {
+      \"site\": \"@momtur\",
+      \"creator\": \"@momtur\"
     },
-    "og": {
-      "siteName": "Momtur - Premium Bodrum Transportation",
-      "image": "https://res.cloudinary.com/djzzikcey/image/upload/v1753431200/momtur_luxury_transfer_bodrum_hero.jpg"
+    \"og\": {
+      \"siteName\": \"Momtur - Premium Bodrum Transportation\",
+      \"image\": \"https://res.cloudinary.com/djzzikcey/image/upload/v1753431200/momtur_luxury_transfer_bodrum_hero.jpg\"
     }
   },
   "metadata": {

@@ -1,3 +1,11 @@
+---
+description: Information about seo implementation guide on Momtur website.
+keywords: seo implementation guide, momtur, bodrum, transfer
+og:
+  image: https://res.cloudinary.com/djzzikcey/image/upload/v1753431200/momtur_luxury_transfer_bodrum_hero.jpg
+title: Seo Implementation Guide
+---
+
 # SEO Implementation Guide for Momtur Website
 
 ## Overview
@@ -15,13 +23,6 @@ momtur-docs/
 │   ├── service-page-template.mdx
 │   ├── location-page-template.mdx
 │   └── airport-page-template.mdx
-└── snippets/
-    ├── local-business-schema.mdx
-    ├── breadcrumb-schema.mdx
-    ├── faq-schema.mdx
-    ├── service-schema.mdx
-    ├── review-widget-schema.mdx
-    └── hreflang-tags.mdx
 ```
 
 ## 2. Implementation Steps
@@ -35,15 +36,7 @@ Use the templates in `seo-templates/` folder to update the frontmatter of all MD
 - **Airport Pages**: Use `airport-page-template.mdx`
 
 ### Step 2: Add Structured Data
-Include relevant JSON-LD snippets from `snippets/` folder in your pages:
-
-```mdx
-import LocalBusinessSchema from '../snippets/local-business-schema.mdx'
-import FAQSchema from '../snippets/faq-schema.mdx'
-
-<LocalBusinessSchema />
-<FAQSchema />
-```
+Include relevant JSON-LD snippets in your pages. (Note: The previous snippets are no longer used.)
 
 ### Step 3: Configure Analytics
 Update the Google Analytics IDs in `docs.json`:

@@ -1,3 +1,11 @@
+---
+description: Information about seo internal linking strategy on Momtur website.
+keywords: seo internal linking strategy, momtur, bodrum, transfer
+og:
+  image: https://res.cloudinary.com/djzzikcey/image/upload/v1753431200/momtur_luxury_transfer_bodrum_hero.jpg
+title: Seo Internal Linking Strategy
+---
+
 # Internal Linking Strategy for Momtur Website
 
 ## Overview

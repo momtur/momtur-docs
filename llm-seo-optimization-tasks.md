@@ -1,3 +1,10 @@
+---
+title: "LLM SEO Optimization Tasks for Mintlify Documentation"
+description: "Comprehensive SEO optimization tasks for a Mintlify-based documentation website, focusing on technical SEO, content optimization, and conversion rate improvement for a premium VIP transfer service in Bodrum, Turkey."
+keywords: "SEO, Mintlify, documentation, optimization, tasks, Bodrum, transfer, VIP, transportation"
+og:image: "https://res.cloudinary.com/djzzikcey/image/upload/v1753431200/momtur_luxury_transfer_bodrum_hero.jpg"
+---
+
 # LLM SEO Optimization Tasks for Mintlify Documentation
 
 ## Project Context
@@ -93,8 +100,6 @@ lastModified: "2025-01-10"
 
 ### Homepage Content Structure:
 ```markdown
-# H1: Bodrum VIP Transfer & Private Tours | Premium Transportation
-
 ## H2: Premium Transfer Services in Bodrum
 - Focus on primary keywords
 - Include location-specific terms
@@ -119,8 +124,6 @@ lastModified: "2025-01-10"
 
 ### Service Page Content Template:
 ```markdown
-# H1: [Service Name] in Bodrum | Professional & Reliable
-
 ## Introduction (100-150 words)
 - Service overview
 - Key benefits
