@@ -14,7 +14,19 @@
     "og": {
       "siteName": "Momtur - Premium Bodrum Transportation",
       "image": "https://res.cloudinary.com/djzzikcey/image/upload/v1753431200/momtur_luxury_transfer_bodrum_hero.jpg"
-    }
+    },
+    "redirects": [
+      {
+        "from": "/locations/bodrum",
+        "to": "/locations/mugla/bodrum",
+        "permanent": true
+      },
+      {
+        "from": "/locations/bodrum/merkez",
+        "to": "/locations/mugla/bodrum/bodrum-merkez",
+        "permanent": true
+      }
+    ]
   },
   "metadata": {
     "charset": "utf-8",
@@ -205,6 +217,7 @@
                 "group": "İlçeler",
                 "pages": [
                   "locations/mugla/bodrum/index",
+                  "locations/mugla/bodrum/bodrum-merkez",
                   "locations/mugla/dalaman/index",
                   "locations/mugla/datca/index",
                   "locations/mugla/fethiye/index",
