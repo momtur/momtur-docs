@@ -302,6 +302,7 @@
             "group": "Yachting Experience",
             "pages": [
               "yachting/index",
+              "yachting/fleet",
               "services/bodrum-marinas-guide",
               "services/maltese-falcon-in-bodrum-turkish-built-worlds-largest-sailing-yacht"
             ]
