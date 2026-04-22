@@ -303,6 +303,7 @@
             "pages": [
               "yachting/index",
               "yachting/fleet",
+              "services/marina-transfer",
               "services/bodrum-marinas-guide",
               "services/maltese-falcon-in-bodrum-turkish-built-worlds-largest-sailing-yacht"
             ]
@@ -315,6 +316,7 @@
           {
             "group": "Our Services",
             "pages": [
+              "services/marina-transfer",
               "services/welcome-services",
               "services/regional-airport-transfers",
               "services/corporate-transportation",
